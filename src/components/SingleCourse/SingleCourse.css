@@ -1,0 +1,32 @@
+.information-container{
+    text-align: center;
+    background-color: rgb(221, 212, 240);
+    color: black;
+    border-radius: 15px;
+    height: 540px;
+}
+
+.button-style-1{
+    width: 150px;
+    border: none;
+    padding: 5px 5px;
+    background-color: rgba(16, 21, 59, 0.897);
+    border-radius: 5px;
+    color: white;
+    font-size: 20;
+    font-weight: 600;
+}
+.button-style-2{
+    width: 150px;
+    border: none;
+    padding: 5px 5px;
+    background-color: rgba(37, 9, 59, 0.952);
+    border-radius: 5px;
+    color: white;
+    font-size: 20;
+    font-weight: 600;
+}
+
+
+    
+    
