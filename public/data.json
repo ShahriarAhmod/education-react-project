@@ -37,7 +37,7 @@
         "price" : "90",
         "Ratings": "4.8",
         "Count": "200",
-        "image": "https://cdn-images-1.medium.com/max/1024/1*8BK8Zi8890DvFqBcdMvGhw.jpeg"
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmgo5a9WYGLntaJZeM4hyeAkROmsO3fj_dg&usqp=CAU"
     },
     {
         "id": "crss150",
@@ -71,7 +71,7 @@
     },
     {
         "id": "crss780",
-        "courseName": "Learn and Understand PHP",
+        "courseName": "Learn and Understand PHP in a simple way",
         "instructor": "Alina Annie",
         "time" : "30 hr 50 mins",
         "price" : "90",
